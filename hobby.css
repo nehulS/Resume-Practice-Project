@@ -1,0 +1,22 @@
+body {
+  background-image: url(images/valoBack.png);
+  background-size: cover;
+  color: rgb(255, 255, 255);
+}
+.mainHeading {
+  text-align: center;
+  font-size: 55px;
+  color: rgb(255, 255, 255);
+}
+
+.description {
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+}
+ol {
+  font-size: 25px;
+}
+
+li {
+  padding: 10px;
+}
